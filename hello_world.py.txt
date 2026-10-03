@@ -1,6 +1,0 @@
-def print_hello(): ㅠㅠ
-    print("Hello World!!")
-
-if __name__ == '__main__':
-
-집 가고싶다.
